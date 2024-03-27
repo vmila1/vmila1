@@ -1,16 +1,26 @@
-### Hi there 👋
+## 🙋 Olá, eu sou a Vithória Bastos!
+* 👩‍🚀 Estudante de Sistemas de Informação na UFRPE;
+* 🧠 Entusiasta de IA;
+* 💡 Sempre buscando novos desafios e oportunidades de aprendizado;
 
-<!--
-**vmila1/vmila1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br/>
 
-Here are some ideas to get you started:
+![Vithória's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmila1\&rank_icon=github\&theme=synthwave)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Tecnologias que gosto de utilizar no meu dia a dia:
+
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
+<div style="display: inline_block"><br/>
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+</div>
+<br/>
+
+### Você pode entrar em contato comigo por meio do:
+<br/>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vithória-bastos-761b981b0/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](vithoriacamilasb@gmail.com)
+
