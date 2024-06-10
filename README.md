@@ -1,6 +1,5 @@
 ## 🙋 Olá, eu sou a Vithória Bastos!
 * 👩‍🚀 Estudante de Sistemas de Informação na UFRPE;
-* 🧠 Entusiasta de IA;
 * 💡 Sempre buscando novos desafios e oportunidades de aprendizado;
 
 ![Vithória's GitHub stats](https://github-readme-stats.vercel.app/api?username=vmila1\&rank_icon=github\&theme=synthwave)
